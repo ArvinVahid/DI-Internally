@@ -1,0 +1,9 @@
+// ***** BenchmarkRunner: Start   *****
+// Found benchmarks:
+//   MemoryBenchmarkerDemo.ConcatStringsUsingStringBuilder: DefaultJob
+//   MemoryBenchmarkerDemo.ConcatStringsUsingGenericList: DefaultJob
+
+// Validating benchmarks:
+Assembly Test which defines benchmarks is non-optimized
+Benchmark was built without optimization enabled (most probably a DEBUG configuration). Please, build it in RELEASE.
+// * Artifacts cleanup *
